@@ -1,0 +1,59 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "Linguine",
+            "category": "pasta",
+            "ethnicity": "italian",
+            "barcode": "8076809523509"
+        },
+        {
+            "id": 2,
+            "name": "Massaman curry",
+            "category": "curry",
+            "ethnicity": "thai",
+            "barcode": "0016229008635"
+        },
+        {
+            "id": 3,
+            "name": "Green curry",
+            "category": "curry",
+            "ethnicity": "thai",
+            "barcode": "0044738102353"
+        },
+        {
+            "id": 4,
+            "name": "Ravioli Funghi",
+            "category": "pasta",
+            "ethnicity": "italian",
+            "barcode": "8001665127585"
+        },
+        {
+            "id": 5,
+            "name": "Tuscan Soup",
+            "category": "vegetarian",
+            "ethnicity": "italian",
+            "barcode": "5000169116562"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "water",
+            "category": "life",
+            "ethnicity": "all",
+            "barcode": "#"
+        },
+        {
+            "name": "tea",
+            "category": "caffeine",
+            "ethnicity": "old people",
+            "barcode": "#"
+        },
+        {
+            "name": "coffee",
+            "category": "caffeine",
+            "ethnicity": "tropical",
+            "barcode": "#"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.domDiv {
+    border: 1px black solid;
+    text-align: center;
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
+
+#container {
+    display: flex;
+}
