@@ -26,6 +26,6 @@ module.exports = {
 
         // Change to true for grunt task to open the
         // browser automatically
-        openBrowser : false
+        openBrowser : true
     }
 }
