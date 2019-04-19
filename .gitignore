@@ -1,1 +1,2 @@
-./src/lib/node_modules/**/*
+./src/lib/node_modules
+.DS_Store
